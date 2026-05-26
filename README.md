@@ -12,6 +12,6 @@ Durante la presentazione verranno mostrati strumenti di sviluppo (Thonny, VS Cod
 
 L’intervento intende fornire ai docenti una panoramica delle possibilità offerte da Python come linguaggio introduttivo alla programmazione, evidenziando come esso possa supportare sia lo sviluppo delle competenze logico-algoritmiche sia l’avvicinamento a temi contemporanei dell’informatica, come la data analysis e l’automazione. Saranno infine discussi alcuni criteri per la progettazione di attività e percorsi didattici progressivi che utilizzino Python come strumento per rendere l’apprendimento della programmazione più accessibile, concreto e motivante per gli studenti della scuola secondaria.
 
-Code: MIT License
+Code: MIT License  
 Educational material: CC BY-NC 4.0
 
